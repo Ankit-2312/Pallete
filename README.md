@@ -71,7 +71,7 @@ A Sketch Palette designed using **Kotlin**. (Mobile App)
 ![paint2]()
 
 # APK file: 🎁🎁
-<a href="https://github.com/Ankit-2312/Pallete-Paint-Like-A-Pro-/blob/master/app/build/Pallete_apk.rar" download="Pallete.zip"> Palette.zip </a>
+[Palette.zip](https://github.com/Ankit-2312/Pallete-Paint-Like-A-Pro-/tree/master/files/5277600/Palette.zip) (Click View Raw)
 
 # Leave Feedback/Suggestions 🙏🙏
 - Link:  [Fill This Form](https://forms.gle/uJU9q9NPZC2KSMLYA)
