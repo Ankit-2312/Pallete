@@ -49,7 +49,7 @@ A Sketch Palette designed using **Kotlin**. (Mobile App)
 ```
 
 ## Pros: ✔✔✔
-- Supported on almost all Android mobile devices (API Level > 26)
+- Supported on almost all Android mobile devices (API Level > 21)
 - No headaches of Login/SignUp.
 - Easily customized.
 - Paint anytime, anywhere.
