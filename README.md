@@ -67,8 +67,16 @@ A Sketch Palette designed using **Kotlin**. (Mobile App)
 - Take and Edit Screenshot
 
 # UI Images: ✨🎇😍
-![paint1]()
-![paint2]()
+<p align="center">
+  <img src="/images/Splash Screen.jpeg" width="300" height="550" title="hover text">
+<p align="center">
+  <img src="/images/Animator-1.jpeg" width="300" height="550" title="hover text" caption="hello">
+  <img src="/images/Animator-2.jpeg" width="300" height="550" title="hover text">
+  <img src="/images/Animator-4.jpeg" width="300" height="550" title="hover text">
+  <img src="/images/Animator-3.jpeg" width="300" height="550" title="hover text">
+  <img src="/images/Drawing.jpeg" width="300" height="550" title="hover text">
+  <img src="/images/Color Palette.jpeg" width="300" height="550" title="hover text">
+</p>
 
 # APK file: 🎁🎁
 [Palette.zip](https://github.com/Ankit-2312/Pallete-Paint-Like-A-Pro-/tree/master/files/5277600/Palette.zip) (Click View Raw)
